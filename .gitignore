@@ -30,3 +30,5 @@
 *.exe
 *.out
 *.app
+/.vs/CppExercises/v16/ipch/AutoPCH/3bfece29d8fcfdc4
+/.vs/CppExercises/v16
